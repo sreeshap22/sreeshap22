@@ -11,13 +11,6 @@
 - 📊 Interests: Web Development, UI/UX, AI/ML, DSA
 
 
-### 🎯 Current Goals
-- 🔭 Building full-stack projects from scratch  
-- 🧠 Improving DSA & system design skills for placements  
-- 🌱 Exploring open source and real-world collaboration  
-- 📚 Preparing for technical interviews and internships
-
-
 ### 📫 Let's Connect!
 - 🌐 [LinkedIn]((https://www.linkedin.com/in/sreesha-parivallal-214704259/))  
 
